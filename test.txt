@@ -1,2 +1,10 @@
-py version 1
-py version 2
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+</head>
+<body>
+Welcome My website
+</body>
+</html>
